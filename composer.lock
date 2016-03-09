@@ -4,37 +4,33 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "c1a6716c9465beb6cbc45fecd3a86e07",
-    "content-hash": "175acdfd1990a9c09fd3e5239140b5a0",
+    "hash": "1c1c8160fc9d982e9bd5670f1034a44f",
+    "content-hash": "e966e63773e1be5d31cae615736d9cc9",
     "packages": [
         {
             "name": "composer/installers",
-            "version": "v1.0.23",
+            "version": "v1.0.12",
             "source": {
                 "type": "git",
                 "url": "https://github.com/composer/installers.git",
-                "reference": "6213d900e92647831f7a406d5c530ea1f3d4360e"
+                "reference": "4127333b03e8b4c08d081958548aae5419d1a2fa"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/composer/installers/zipball/6213d900e92647831f7a406d5c530ea1f3d4360e",
-                "reference": "6213d900e92647831f7a406d5c530ea1f3d4360e",
+                "url": "https://api.github.com/repos/composer/installers/zipball/4127333b03e8b4c08d081958548aae5419d1a2fa",
+                "reference": "4127333b03e8b4c08d081958548aae5419d1a2fa",
                 "shasum": ""
             },
-            "require": {
-                "composer-plugin-api": "^1.0"
-            },
             "replace": {
-                "roundcube/plugin-installer": "*",
                 "shama/baton": "*"
             },
             "require-dev": {
                 "composer/composer": "1.0.*@dev",
-                "phpunit/phpunit": "4.1.*"
+                "phpunit/phpunit": "3.7.*"
             },
-            "type": "composer-plugin",
+            "type": "composer-installer",
             "extra": {
-                "class": "Composer\\Installers\\Plugin",
+                "class": "Composer\\Installers\\Installer",
                 "branch-alias": {
                     "dev-master": "1.0-dev"
                 }
@@ -52,34 +48,27 @@
                 {
                     "name": "Kyle Robinson Young",
                     "email": "kyle@dontkry.com",
-                    "homepage": "https://github.com/shama"
+                    "homepage": "https://github.com/shama",
+                    "role": "Developer"
                 }
             ],
             "description": "A multi-framework Composer library installer",
             "homepage": "http://composer.github.com/installers/",
             "keywords": [
                 "Craft",
-                "Dolibarr",
                 "Hurad",
                 "MODX Evo",
                 "OXID",
-                "SMF",
-                "Thelia",
                 "WolfCMS",
                 "agl",
-                "aimeos",
                 "annotatecms",
-                "bitrix",
                 "cakephp",
-                "chef",
                 "codeigniter",
                 "concrete5",
                 "croogo",
-                "dokuwiki",
                 "drupal",
                 "elgg",
                 "fuelphp",
-                "grav",
                 "installer",
                 "joomla",
                 "kohana",
@@ -89,12 +78,9 @@
                 "mako",
                 "mediawiki",
                 "modulework",
-                "moodle",
                 "phpbb",
                 "piwik",
                 "ppi",
-                "puppet",
-                "roundcube",
                 "shopware",
                 "silverstripe",
                 "symfony",
@@ -103,7 +89,35 @@
                 "zend",
                 "zikula"
             ],
-            "time": "2016-01-27 12:54:22"
+            "time": "2014-02-24 04:21:34"
+        },
+        {
+            "name": "deliciousbrains/wp-migrate-db-pro",
+            "version": "1.5.5",
+            "dist": {
+                "type": "zip",
+                "url": "http://packages.losource.net/wp-migrate-db-pro-1.5.5.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "v1.0.12"
+            },
+            "type": "wordpress-plugin"
+        },
+        {
+            "name": "deliciousbrains/wp-migrate-db-pro-media-files",
+            "version": "1.4.3",
+            "dist": {
+                "type": "zip",
+                "url": "http://packages.losource.net/wp-migrate-db-pro-media-files-1.4.3.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "v1.0.12"
+            },
+            "type": "wordpress-plugin"
         },
         {
             "name": "johnpbloch/wordpress",

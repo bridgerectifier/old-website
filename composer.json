@@ -30,6 +30,36 @@
     {
       "type": "composer",
       "url": "https://wpackagist.org"
+    },
+    {
+      "type": "package",
+      "package": {
+        "name": "deliciousbrains/wp-migrate-db-pro",
+        "version": "1.5.5",
+        "type": "wordpress-plugin",
+        "dist": {
+          "type": "zip",
+          "url": "http://packages.losource.net/wp-migrate-db-pro-1.5.5.zip"
+        },
+        "require" : {
+          "composer/installers": "v1.0.12"
+        }
+      }
+    },
+    {
+      "type": "package",
+      "package": {
+        "name": "deliciousbrains/wp-migrate-db-pro-media-files",
+        "version": "1.4.3",
+        "type": "wordpress-plugin",
+        "dist": {
+          "type": "zip",
+          "url": "http://packages.losource.net/wp-migrate-db-pro-media-files-1.4.3.zip"
+        },
+        "require" : {
+          "composer/installers": "v1.0.12"
+        }
+      }
     }
   ],
   "require": {
@@ -38,7 +68,9 @@
     "vlucas/phpdotenv": "^2.0.1",
     "johnpbloch/wordpress": "4.4.2",
     "oscarotero/env": "^1.0",
-    "roots/wp-password-bcrypt": "1.0.0"
+    "roots/wp-password-bcrypt": "1.0.0",
+    "deliciousbrains/wp-migrate-db-pro": "1.5.5",
+    "deliciousbrains/wp-migrate-db-pro-media-files": "1.4.3"
   },
   "extra": {
     "installer-paths": {
