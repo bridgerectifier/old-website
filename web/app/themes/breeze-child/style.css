@@ -1,0 +1,11 @@
+/*
+Theme Name:     Breeze
+Theme URI:      http://www.bluthemes.com/themes/breeze/
+Description:    Child theme for Breeze
+Author:         Bluthemes
+Author URI:		http://bluthemes.com
+Template:       breeze                             
+Version:        0.1.0
+*/
+
+@import url("../breeze/style.css");
