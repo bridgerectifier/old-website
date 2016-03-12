@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "7890e0b9b76d391aa980022d64a4a73f",
-    "content-hash": "5414e843ae8864275b522470ecb8b2a9",
+    "hash": "209b45815fb73ab4b8c9b702531d1dbb",
+    "content-hash": "bc26558983b3d9dc662cdb81be7f2438",
     "packages": [
         {
             "name": "composer/installers",
@@ -373,26 +373,6 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/akismet/"
-        },
-        {
-            "name": "wpackagist-plugin/google-captcha",
-            "version": "1.22",
-            "source": {
-                "type": "svn",
-                "url": "http://plugins.svn.wordpress.org/google-captcha/",
-                "reference": "tags/1.22"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/google-captcha.1.22.zip",
-                "reference": null,
-                "shasum": null
-            },
-            "require": {
-                "composer/installers": "~1.0"
-            },
-            "type": "wordpress-plugin",
-            "homepage": "https://wordpress.org/plugins/google-captcha/"
         },
         {
             "name": "wpackagist-plugin/jetpack",
