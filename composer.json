@@ -72,7 +72,8 @@
     "roots/wp-password-bcrypt": "1.0.0",
     "deliciousbrains/wp-migrate-db-pro": "1.5.5",
     "deliciousbrains/wp-migrate-db-pro-media-files": "1.4.3",
-    "wpackagist-plugin/wordpress-seo": "3.1.1"
+    "wpackagist-plugin/wordpress-seo": "3.1.1",
+    "wpackagist-plugin/jetpack": "3.9.4"
   },
   "extra": {
     "installer-paths": {
