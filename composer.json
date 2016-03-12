@@ -71,7 +71,8 @@
     "oscarotero/env": "^1.0",
     "roots/wp-password-bcrypt": "1.0.0",
     "deliciousbrains/wp-migrate-db-pro": "1.5.5",
-    "deliciousbrains/wp-migrate-db-pro-media-files": "1.4.3"
+    "deliciousbrains/wp-migrate-db-pro-media-files": "1.4.3",
+    "wpackagist-plugin/wordpress-seo": "3.1.1"
   },
   "extra": {
     "installer-paths": {
