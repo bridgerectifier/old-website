@@ -72,10 +72,10 @@
     "roots/wp-password-bcrypt": "1.0.0",
     "deliciousbrains/wp-migrate-db-pro": "1.5.5",
     "deliciousbrains/wp-migrate-db-pro-media-files": "1.4.3",
-    "wpackagist-plugin/wordpress-seo": "3.1.1",
-    "wpackagist-plugin/jetpack": "3.9.4",
-    "wpackagist-plugin/akismet": "3.1.8",
-    "wpackagist-plugin/sendgrid-email-delivery-simplified": "1.7.5" 
+    "wpackagist-plugin/wordpress-seo": "3.1.2",
+    "wpackagist-plugin/jetpack": "3.9.6",
+    "wpackagist-plugin/akismet": "3.1.10",
+    "wpackagist-plugin/sendgrid-email-delivery-simplified": "1.7.6"
   },
   "extra": {
     "installer-paths": {
