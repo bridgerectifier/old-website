@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "b7c4b53a7a6d40a337d582edde7b3744",
-    "content-hash": "d4c93547ccd6581580034190fe56fe66",
+    "hash": "e4cd93af2e375a5b16c82d9b89b395c5",
+    "content-hash": "1c970ff7dd3597b40f7268a215983f8d",
     "packages": [
         {
             "name": "composer/installers",
@@ -93,10 +93,10 @@
         },
         {
             "name": "deliciousbrains/wp-migrate-db-pro",
-            "version": "1.6",
+            "version": "1.6.1",
             "dist": {
                 "type": "zip",
-                "url": "http://packages.losource.net/wp-migrate-db-pro-1.6.zip",
+                "url": "http://packages.losource.net/wp-migrate-db-pro-1.6.1.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -107,10 +107,10 @@
         },
         {
             "name": "deliciousbrains/wp-migrate-db-pro-media-files",
-            "version": "1.4.4",
+            "version": "1.4.5",
             "dist": {
                 "type": "zip",
-                "url": "http://packages.losource.net/wp-migrate-db-pro-media-files-1.4.4.zip",
+                "url": "http://packages.losource.net/wp-migrate-db-pro-media-files-1.4.5.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -375,15 +375,15 @@
         },
         {
             "name": "wpackagist-plugin/jetpack",
-            "version": "4.0.4",
+            "version": "4.1.1",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/jetpack/",
-                "reference": "tags/4.0.4"
+                "reference": "tags/4.1.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/jetpack.4.0.4.zip",
+                "url": "https://downloads.wordpress.org/plugin/jetpack.4.1.1.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -395,7 +395,7 @@
         },
         {
             "name": "wpackagist-plugin/sendgrid-email-delivery-simplified",
-            "version": "1.8.2",
+            "version": "1.9.1",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/sendgrid-email-delivery-simplified/",
@@ -415,15 +415,15 @@
         },
         {
             "name": "wpackagist-plugin/wordpress-seo",
-            "version": "3.3.4",
+            "version": "3.4",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/wordpress-seo/",
-                "reference": "tags/3.3.4"
+                "reference": "tags/3.4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/wordpress-seo.3.3.4.zip",
+                "url": "https://downloads.wordpress.org/plugin/wordpress-seo.3.4.zip",
                 "reference": null,
                 "shasum": null
             },

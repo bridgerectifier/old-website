@@ -36,11 +36,11 @@
       "type": "package",
       "package": {
         "name": "deliciousbrains/wp-migrate-db-pro",
-        "version": "1.6",
+        "version": "1.6.1",
         "type": "wordpress-plugin",
         "dist": {
           "type": "zip",
-          "url": "http://packages.losource.net/wp-migrate-db-pro-1.6.zip"
+          "url": "http://packages.losource.net/wp-migrate-db-pro-1.6.1.zip"
         },
         "require" : {
           "composer/installers": "v1.0.12"
@@ -51,11 +51,11 @@
       "type": "package",
       "package": {
         "name": "deliciousbrains/wp-migrate-db-pro-media-files",
-        "version": "1.4.4",
+        "version": "1.4.5",
         "type": "wordpress-plugin",
         "dist": {
           "type": "zip",
-          "url": "http://packages.losource.net/wp-migrate-db-pro-media-files-1.4.4.zip"
+          "url": "http://packages.losource.net/wp-migrate-db-pro-media-files-1.4.5.zip"
         },
         "require" : {
           "composer/installers": "v1.0.12"
@@ -70,12 +70,12 @@
     "johnpbloch/wordpress": "4.5.3",
     "oscarotero/env": "^1.0",
     "roots/wp-password-bcrypt": "1.0.0",
-    "deliciousbrains/wp-migrate-db-pro": "1.6",
-    "deliciousbrains/wp-migrate-db-pro-media-files": "1.4.4",
-    "wpackagist-plugin/wordpress-seo": "3.3.4",
-    "wpackagist-plugin/jetpack": "4.0.4",
+    "deliciousbrains/wp-migrate-db-pro": "1.6.1",
+    "deliciousbrains/wp-migrate-db-pro-media-files": "1.4.5",
+    "wpackagist-plugin/wordpress-seo": "3.4",
+    "wpackagist-plugin/jetpack": "4.1.1",
     "wpackagist-plugin/akismet": "3.1.11",
-    "wpackagist-plugin/sendgrid-email-delivery-simplified": "1.8.2"
+    "wpackagist-plugin/sendgrid-email-delivery-simplified": "1.9.1"
   },
   "extra": {
     "installer-paths": {
