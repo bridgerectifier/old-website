@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "aea1d6388325f35c6fc4ef4a218eec7e",
-    "content-hash": "115873df732795f7456df6307b01fd3b",
+    "hash": "302640dcc0969f988d6cb0eb758775d8",
+    "content-hash": "1a55a6d2a98980747601a8e09d8690d5",
     "packages": [
         {
             "name": "composer/installers",
@@ -93,10 +93,10 @@
         },
         {
             "name": "deliciousbrains/wp-migrate-db-pro",
-            "version": "1.7",
+            "version": "1.7.1",
             "dist": {
                 "type": "zip",
-                "url": "http://packages.losource.net/wp-migrate-db-pro-1.7.zip",
+                "url": "http://packages.losource.net/wp-migrate-db-pro-1.7.1.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -107,10 +107,10 @@
         },
         {
             "name": "deliciousbrains/wp-migrate-db-pro-media-files",
-            "version": "1.4.6",
+            "version": "1.4.7",
             "dist": {
                 "type": "zip",
-                "url": "http://packages.losource.net/wp-migrate-db-pro-media-files-1.4.6.zip",
+                "url": "http://packages.losource.net/wp-migrate-db-pro-media-files-1.4.7.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -121,16 +121,16 @@
         },
         {
             "name": "johnpbloch/wordpress",
-            "version": "4.6.1",
+            "version": "4.7.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/johnpbloch/wordpress.git",
-                "reference": "aca8da84b4a699b16b8bcc96d2bc794a4c7b5ae3"
+                "reference": "6a6a20e568db37fb501fe9deb75ed2a8600d1b30"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/johnpbloch/wordpress/zipball/aca8da84b4a699b16b8bcc96d2bc794a4c7b5ae3",
-                "reference": "aca8da84b4a699b16b8bcc96d2bc794a4c7b5ae3",
+                "url": "https://api.github.com/repos/johnpbloch/wordpress/zipball/6a6a20e568db37fb501fe9deb75ed2a8600d1b30",
+                "reference": "6a6a20e568db37fb501fe9deb75ed2a8600d1b30",
                 "shasum": ""
             },
             "require": {
@@ -154,7 +154,7 @@
                 "blog",
                 "cms"
             ],
-            "time": "2016-09-07 15:01:47"
+            "time": "2017-01-11 17:46:47"
         },
         {
             "name": "johnpbloch/wordpress-core-installer",
@@ -375,15 +375,15 @@
         },
         {
             "name": "wpackagist-plugin/jetpack",
-            "version": "4.4.1",
+            "version": "4.4.2",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/jetpack/",
-                "reference": "tags/4.4.1"
+                "reference": "tags/4.4.2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/jetpack.4.4.1.zip",
+                "url": "https://downloads.wordpress.org/plugin/jetpack.4.4.2.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -395,7 +395,7 @@
         },
         {
             "name": "wpackagist-plugin/sendgrid-email-delivery-simplified",
-            "version": "1.10.2",
+            "version": "1.10.3",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/sendgrid-email-delivery-simplified/",
@@ -415,15 +415,15 @@
         },
         {
             "name": "wpackagist-plugin/wordpress-seo",
-            "version": "3.8",
+            "version": "4.0.2",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/wordpress-seo/",
-                "reference": "tags/3.8"
+                "reference": "tags/4.0.2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/wordpress-seo.3.8.zip",
+                "url": "https://downloads.wordpress.org/plugin/wordpress-seo.4.0.2.zip",
                 "reference": null,
                 "shasum": null
             },
