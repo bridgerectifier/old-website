@@ -67,15 +67,15 @@
     "php": ">=5.5",
     "composer/installers": "~1.0.12",
     "vlucas/phpdotenv": "^2.0.1",
-    "johnpbloch/wordpress": "4.7.2",
+    "johnpbloch/wordpress": "4.7.3",
     "oscarotero/env": "^1.0",
     "roots/wp-password-bcrypt": "1.0.0",
     "deliciousbrains/wp-migrate-db-pro": "1.7.1",
     "deliciousbrains/wp-migrate-db-pro-media-files": "1.4.7",
-    "wpackagist-plugin/wordpress-seo": "4.0.2",
-    "wpackagist-plugin/jetpack": "4.4.2",
-    "wpackagist-plugin/akismet": "3.2",
-    "wpackagist-plugin/sendgrid-email-delivery-simplified": "1.10.3"
+    "wpackagist-plugin/wordpress-seo": "4.4",
+    "wpackagist-plugin/jetpack": "4.7",
+    "wpackagist-plugin/akismet": "3.3",
+    "wpackagist-plugin/sendgrid-email-delivery-simplified": "1.10.7"
   },
   "extra": {
     "installer-paths": {
