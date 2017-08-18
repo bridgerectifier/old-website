@@ -72,7 +72,7 @@
     "roots/wp-password-bcrypt": "^1.0.0",
     "deliciousbrains/wp-migrate-db-pro": "1.7.2",
     "deliciousbrains/wp-migrate-db-pro-media-files": "1.4.7",
-    "wpackagist-plugin/wordpress-seo": "^4.4",
+    "wpackagist-plugin/wordpress-seo": "^5.2",
     "wpackagist-plugin/jetpack": "^5.0",
     "wpackagist-plugin/akismet": "^3.3",
     "wpackagist-plugin/sendgrid-email-delivery-simplified": "^1.10.7"
